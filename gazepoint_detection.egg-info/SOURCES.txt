@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+gazepoint_detection.egg-info/PKG-INFO
+gazepoint_detection.egg-info/SOURCES.txt
+gazepoint_detection.egg-info/dependency_links.txt
+gazepoint_detection.egg-info/requires.txt
+gazepoint_detection.egg-info/top_level.txt
